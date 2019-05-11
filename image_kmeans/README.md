@@ -5,3 +5,7 @@
 2. 将RGB模型转化为HSV模型  
 3. 将HSV转化为n维的特征向量  
 4. 调用K-means对特征矩阵进行聚类
+
+### 安装python库
+pip install opencv-python  
+pip install scipy
